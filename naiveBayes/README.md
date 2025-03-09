@@ -38,7 +38,7 @@ Custom Model Karmaşıklık Matrisi:
  [   4 1426]]
 
  ## Yorum:
- Gaussian Naive Bayes, kolay uygulanabilir ve hızlı sonuçlar veren bir başlangıç modeli olarak tercih edilebilir. Ancak, verinin doğası ve varsayımların sağlanmaması nedeniyle elde edilen %60 civarındaki doğruluk oranı, modelin karmaşık yapıyı yakalamada yetersiz kalabileceğini göstermektedir. Bu durumda, veri ön işleme adımlarını gözden geçirmek, farklı özellik mühendisliği teknikleri uygulamak veya daha gelişmiş modellerle çalışmak performansı artırabilir.
+ Gaussian Naive Bayes, kolay uygulanabilir ve hızlı sonuçlar veren bir başlangıç modeli olarak tercih edilebilir. Ancak verinin doğası ve varsayımların sağlanmaması nedeniyle elde edilen %60 civarındaki doğruluk oranı, modelin karmaşık yapıyı yakalamada yetersiz kalabileceğini göstermektedir. Bu durumda veri ön işleme adımlarını gözden geçirmek, farklı özellik mühendisliği teknikleri uygulamak veya daha gelişmiş modellerle çalışmak performansı artırabilir.
 
  23291414-Arda Karakaş
  
