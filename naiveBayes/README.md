@@ -38,6 +38,7 @@ Scikit-Learn Modeli Eğitim Süresi: 0.004120 sn
 Scikit-Learn Modeli Tahmin Süresi: 0.001349 sn
 Scikit-Learn Modeli Doğruluk Oranı: 0.5719858156028369
 Scikit-Learn Karmaşıklık Matrisi:
+
  [[ 187 1203]
  
  [   4 1426]]
@@ -47,6 +48,7 @@ Custom Model Eğitim Süresi: 0.001268 sn
 Custom Model Tahmin Süresi: 0.068243 sn
 Custom Model Doğruluk Oranı: 0.5719858156028369
 Custom Model Karmaşıklık Matrisi:
+
  [[ 187 1203]
  
  [   4 1426]]
