@@ -98,3 +98,5 @@ Veri setindeki eksik veriler ve kategorik özellikler uygun şekilde işlendikte
 Uygulama Kolaylığı:
 scikit-learn kullanılarak geliştirilen model, eğitim ve test süreçlerinde daha optimize sonuçlar verirken, manuel yöntem algoritmanın detaylarını anlamak açısından bir öğrenme süreci sunmuştur.
 
+##Arda Karakaş - 23291414
+
