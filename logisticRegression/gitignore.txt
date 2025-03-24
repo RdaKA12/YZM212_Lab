@@ -1,0 +1,71 @@
+# Python bytecode ve derlenmiş dosyalar
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C uzantıları
+*.so
+
+# Paketleme ve dağıtım klasörleri
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller dosyaları
+*.manifest
+*.spec
+
+# Installer logları
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Test ve coverage raporları
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook kontrol klasörü
+.ipynb_checkpoints/
+
+# Sanal ortamlar
+venv/
+ENV/
+env/
+.env/
+venv.bak/
+env.bak/
+
+# Pyenv
+.python-version
+
+# mypy cache
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# VS Code ayarları
+.vscode/
+
+# MacOS sistem dosyaları
+.DS_Store
