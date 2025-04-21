@@ -86,3 +86,5 @@ eigenvalues, eigenvectors = numpy.linalg.eig(a)
 7. Wikipedia, “PageRank” (Erişim: 7 Nisan 2025) – https://en.wikipedia.org/wiki/PageRank
 8. Wikipedia, “Laplacian eigenmaps” (Erişim: 7 Nisan 2025) – https://en.wikipedia.org/wiki/Laplacian_eigenmap
 9. Golub, G.H. & Van Loan, C.F., *Matrix Computations*, 4th ed., Johns Hopkins University Press, 2013.
+
+### Arda Karakaş - 23291414
