@@ -77,14 +77,13 @@ eigenvalues, eigenvectors = numpy.linalg.eig(a)
 
 ## Kaynaklar
 
-1. Machine Learning Mastery, “Introduction to matrices for machine learning” (Erişim: 7 Nisan 2025) – https://machinelearningmastery.com/introduction-matrices-machine-learning/
-2. Machine Learning Mastery, “Introduction to eigendecomposition, eigenvalues and eigenvectors” (Erişim: 7 Nisan 2025) – https://machinelearningmastery.com/introduction-to-eigendecomposition-eigenvalues-and-eigenvectors/
-3. NumPy Documentation: `numpy.linalg.eig` (Erişim: 7 Nisan 2025) – https://numpy.org/doc/stable/reference/generated/numpy.linalg.eig.html
-4. Lucas BN, “Eigenvalues and Eigenvectors” GitHub Repo (Erişim: 7 Nisan 2025) – https://github.com/LucasBN/Eigenvalues-and-Eigenvectors
-5. scikit-learn Documentation, “Kernel PCA” (Erişim: 7 Nisan 2025) – https://scikit-learn.org/stable/modules/kernel_pca.html
-6. scikit-learn Documentation, “Linear Discriminant Analysis” (Erişim: 7 Nisan 2025) – https://scikit-learn.org/stable/modules/lda_qda.html
-7. Wikipedia, “PageRank” (Erişim: 7 Nisan 2025) – https://en.wikipedia.org/wiki/PageRank
-8. Wikipedia, “Laplacian eigenmaps” (Erişim: 7 Nisan 2025) – https://en.wikipedia.org/wiki/Laplacian_eigenmap
-9. Golub, G.H. & Van Loan, C.F., *Matrix Computations*, 4th ed., Johns Hopkins University Press, 2013.
+1. Machine Learning Mastery, “Introduction to matrices for machine learning” (Erişim: 21 Nisan 2025) – https://machinelearningmastery.com/introduction-matrices-machine-learning/
+2. Machine Learning Mastery, “Introduction to eigendecomposition, eigenvalues and eigenvectors” (Erişim: 21 Nisan 2025) – https://machinelearningmastery.com/introduction-to-eigendecomposition-eigenvalues-and-eigenvectors/
+3. NumPy Documentation: `numpy.linalg.eig` (Erişim: 21 Nisan 2025) – https://numpy.org/doc/stable/reference/generated/numpy.linalg.eig.html
+4. Lucas BN, “Eigenvalues and Eigenvectors” GitHub Repo (Erişim: 21 Nisan 2025) – https://github.com/LucasBN/Eigenvalues-and-Eigenvectors
+5. scikit-learn Documentation, “Kernel PCA” (Erişim: 21 Nisan 2025) – https://scikit-learn.org/stable/modules/kernel_pca.html
+6. scikit-learn Documentation, “Linear Discriminant Analysis” (Erişim: 21 Nisan 2025) – https://scikit-learn.org/stable/modules/lda_qda.html
+7. Wikipedia, “PageRank” (Erişim: 21 Nisan 2025) – https://en.wikipedia.org/wiki/PageRank
+8. Wikipedia, “Laplacian eigenmaps” (Erişim: 21 Nisan 2025) – https://en.wikipedia.org/wiki/Laplacian_eigenmap
 
 ### Arda Karakaş - 23291414
