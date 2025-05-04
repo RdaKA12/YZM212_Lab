@@ -1,4 +1,4 @@
-# Linear Regression – Study Hours vs Exam Scores
+# Linear Regression 
 
 Bu README dosyası, YZM212 Makine Öğrenmesi Dersi IV. Laboratuvar Ödevi kapsamında hazırlanan **Linear Regression** projesini içerir. Aşağıda adım adım uygulanan yöntemler, kod yapısı ve elde edilen sonuçlar özetlenmiştir.
 
